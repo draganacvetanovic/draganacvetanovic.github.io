@@ -1,16 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-	
-	{% include head.html %}
-	
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" width="device-width, initial-scale=1.0">
+		<meta name="description" content="{{ page.description }}">
+		<meta name="author" content="Dragana Cvetanovic">
+		<!-- favicon
+		<link rel="shortcut icon" href="/img/ico/favicon.png">
+		-->
+		<title>{{ page.title }} | Dragana Cvetanovic | Kuka ja mitä! </title>		
+		<!-- styles -->
+		<link href="/css/bootstrap.css" rel="stylesheet">
+		<link href="/css/jumbotron-narrow.css" rel="stylesheet">
+		<link href="/css/style.css" rel="stylesheet">
+		
+		<meta name="google-site-verification" content="11jyRSqsapQJIumNDtKnSE7MweGv0-rchCxO6Hi8AEo" />
+		
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    	<![endif]-->	
+	</head>
 	<body>
 		<div class="container">
-			
-			{% include header.html %}
+			<div class="header">
+				<ul class="nav nav-pills pull-right">
+					<li class="{{ page.cv }}"><a href="/cv" title="CV">CV</a></li>
+					<!-- <li class="{{ page.projects }}"><a href="/projects" title="Projects">Projects</a></li> -->
+					<li class="{{ page.notes }}"><a href="/notes" title="Notes">Notes</a></li>
+					<li class="{{ page.contact }}"><a href="/contact" title="Contact">Contact</a></li>
+				</ul>
+				<h3 class="text-muted"><a href="/">Dragana Cvetanovic</a></h3>
+			</div> <!-- /header -->
 			
 			{{ content }}
 			
-			{% include footer.html %}
+			<div class="footer">
+				<div class="row">
+				<div class="col-sm-8">
+				<p><small>&copy; Dragana Cvetanovic 2014</small></p>
+				</div>
+				<div class="col-sm-4">
+				<p class="pull-right"><small><a href="/about" title="About this site">About this site</a></small></p>
+				</div>
+				</div>
+			</div> <!-- /footer -->
+>>>>>>> gh-pages
 		
 		</div> <!-- /container -->
 	
