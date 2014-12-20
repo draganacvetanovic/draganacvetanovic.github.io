@@ -22,7 +22,7 @@ Sed facilisis orci cursus, laoreet nibh eget, porta metus. Vestibulum vel massa 
 	<img  class="img-circle avatar" alt="Dragana Cvetanovic" src="http://easterneurope.github.io/images/scholars/dragana100.JPG">
 	</div>
 	<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8">
-	<p class="lead">Hi, I'm <span itemprop="name">Dragana Cvetanovic</span> and I make things on the web for academic libraries and scholarly publishers.</p>
+	<p class="lead">Hi, I'm <span itemprop="name">Dragana Cvetanovic</span> and I do research on hip hop.</p>
 	<p>I get by as a <span itemprop="title">librarian</span>, <span itemprop="title">front end developer</span>, <span itemprop="title">UI designer</span>, <span itemprop="title">digital publisher</span>, <span itemprop="title">managing editor</span> and music enthusiast living in <span itemprop="address" itemscope
     itemtype="http://data-vocabulary.org/Address"> <span itemprop="locality">Plymouth</span>, <span itemprop="region">Michigan</span></span> and working for <a href="http://www.publishing.umich.edu">Michigan Publishing</a> at <span itemprop="affiliation">the <a href="http://www.lib.umich.edu">University of Michigan Library</a></span>.</p>
 	
