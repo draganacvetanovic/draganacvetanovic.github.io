@@ -17,7 +17,7 @@ description: Kuvaus tähän.
 <!--	<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8"> -->
 
 <!-- Tää rivi on luokka "lead" näyttää niinku ingressiltä -->
-	<p class="lead">Hi, I'm Dragana Cvetanovic and I do research on hip hop in Finland and Serbia with the emphases on notions such as identity, language, performativity. My academic interests cover even political, societal and cultural developments in Serbia and the Balkans. .</p>
+	<p class="lead">Hi, I'm Dragana Cvetanovic and I do research on hip hop culture in Finland and Serbia with the emphases on notions such as identity, language, performativity. My academic interests cover even political, societal and cultural developments in Serbia and the Balkans. .</p>
 
 
 <!-- Alla on kaksi kappaletta ns. leipätekstiä joissa molemmissa linkki ylen sivuille -->
